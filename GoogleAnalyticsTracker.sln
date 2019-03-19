@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalyticsTracker.Nanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalyticsTracker.Owin", "GoogleAnalyticsTracker.Owin\GoogleAnalyticsTracker.Owin.csproj", "{F1C29CE8-C2BE-4B76-AF7F-8B1A331E5FA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalyticsTrackerStandard.Core", "GoogleAnalyticsTrackerStandard.Core\GoogleAnalyticsTrackerStandard.Core.csproj", "{CC9BDC52-9E4E-457B-AD97-343077504853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,8 +113,27 @@ Global
 		{F1C29CE8-C2BE-4B76-AF7F-8B1A331E5FA5}.Release|ARM.ActiveCfg = Release|Any CPU
 		{F1C29CE8-C2BE-4B76-AF7F-8B1A331E5FA5}.Release|x64.ActiveCfg = Release|Any CPU
 		{F1C29CE8-C2BE-4B76-AF7F-8B1A331E5FA5}.Release|x86.ActiveCfg = Release|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Debug|ARM.Build.0 = Debug|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Debug|x64.Build.0 = Debug|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Debug|x86.Build.0 = Debug|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|ARM.ActiveCfg = Release|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|ARM.Build.0 = Release|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|x64.ActiveCfg = Release|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|x64.Build.0 = Release|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|x86.ActiveCfg = Release|Any CPU
+		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133C388B-0B07-4927-91FF-0D151DA03AE1}
 	EndGlobalSection
 EndGlobal
