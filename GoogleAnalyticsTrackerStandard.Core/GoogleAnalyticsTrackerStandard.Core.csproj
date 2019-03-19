@@ -1,9 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-	<ItemGroup>
-		<Compile Include="TrackerBase.async.cs">
-			<DependentUpon>TrackerBase.cs</DependentUpon>
-		</Compile>
-	</ItemGroup>
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<SignAssembly>true</SignAssembly>
