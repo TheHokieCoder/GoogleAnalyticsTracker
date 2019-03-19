@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalyticsTracker.Owin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalyticsTrackerStandard.Core", "GoogleAnalyticsTrackerStandard.Core\GoogleAnalyticsTrackerStandard.Core.csproj", "{CC9BDC52-9E4E-457B-AD97-343077504853}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalyticsTrackerStandard.Simple", "GoogleAnalyticsTrackerStandard.Simple\GoogleAnalyticsTrackerStandard.Simple.csproj", "{6BF26EAC-175F-495A-850D-B39F95149309}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,22 @@ Global
 		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|x64.Build.0 = Release|Any CPU
 		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|x86.ActiveCfg = Release|Any CPU
 		{CC9BDC52-9E4E-457B-AD97-343077504853}.Release|x86.Build.0 = Release|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Debug|ARM.Build.0 = Debug|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Debug|x64.Build.0 = Debug|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Debug|x86.Build.0 = Debug|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Release|ARM.ActiveCfg = Release|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Release|ARM.Build.0 = Release|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Release|x64.ActiveCfg = Release|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Release|x64.Build.0 = Release|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Release|x86.ActiveCfg = Release|Any CPU
+		{6BF26EAC-175F-495A-850D-B39F95149309}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

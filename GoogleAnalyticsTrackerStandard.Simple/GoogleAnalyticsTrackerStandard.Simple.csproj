@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Maarten Balliauw</Authors>
+    <Company />
+    <Product>GoogleAnalyticsTrackerStandard</Product>
+    <Description>GoogleAnalyticsTrackerStandard - A C# library for tracking Google Analytics targeted at .NET Standard 2.0.</Description>
+    <Copyright>Copyright © GoogleAnalyticsTracker 2012 - 2019</Copyright>
+    <PackageLicenseUrl>https://github.com/maartenba/GoogleAnalyticsTracker/blob/master/LICENSE.md</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/maartenba/GoogleAnalyticsTracker</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>analytics,google,net,tracker,standard</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>GoogleAnalyticsTracker.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GoogleAnalyticsTrackerStandard.Core\GoogleAnalyticsTrackerStandard.Core.csproj" />
+  </ItemGroup>
+
+</Project>
